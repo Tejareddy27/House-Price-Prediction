@@ -13,5 +13,6 @@ Bathrooms: Number of bathrooms
 Amenities: Additional features (e.g., garage, pool)
 
 
+
 Results
 The Random Forest model achieved an RMSE of approximately 1,670,830, outperforming the Linear Regression model.
